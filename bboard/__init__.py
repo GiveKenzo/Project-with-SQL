@@ -1,0 +1,1 @@
+default_auto_field = 'bboard.apps.BboardConfig'
